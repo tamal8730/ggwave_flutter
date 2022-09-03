@@ -1,0 +1,9 @@
+[submodule "examples/third-party/imgui/imgui"]
+	path = examples/third-party/imgui/imgui
+	url = https://github.com/ocornut/imgui
+[submodule "examples/third-party/ggsock"]
+	path = examples/third-party/ggsock
+	url = https://github.com/ggerganov/ggsock
+[submodule "bindings/ios"]
+	path = bindings/ios
+	url = https://github.com/ggerganov/ggwave-spm
