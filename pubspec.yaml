@@ -1,7 +1,7 @@
 name: ggwave_flutter
 description: Flutter plugin for ggwave data-over-sound library
 version: 0.0.1
-homepage:
+homepage: https://github.com/tamal8730/ggwave_flutter
 
 environment:
   sdk: '>=2.19.0-146.0.dev <3.0.0'
