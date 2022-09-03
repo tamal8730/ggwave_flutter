@@ -31,6 +31,7 @@ The `GGWaveFlutter` constructor takes in a `GGWaveFlutterCallbacks` object. This
 |`onCaptureStop`  |--  | Invoked when the device stops listening for the data-encoded audio. |
 
 The `GGWaveFlutter` class has two methods, one to send the message, and the other to start/stop listening for messages.
+
 | Method signature  | Description |
 |--|--|
 | `Future<void> togglePlayback(String message)` | Calling this method will start playing an audio with the message encoded in it. If this method is called again before the current audio playback completes, it will stop the playback and no data will be transmitted. |
